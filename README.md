@@ -1,19 +1,18 @@
-# Hi!
+# Hi, I'm Lucy Oliver
 
-I'm an Electrical and Electronic Engineering student at the University of Nottingham, interested in embedded systems, digital hardware and FPGA engineering.
-
-## What I'm working on
-- Learning digital logic, Verilog and FPGA development
-- Developing an FPGA UART controller with a FIFO buffer
-- Building and documenting my engineering projects
+I'm studying Electrical and Electronic Engineering at the University of Nottingham, graduating in 2029. I'm interested in embedded systems, digital hardware and developing towards FPGA engineering.
 
 ## Projects
-- **Sky Sense** - Python computer vision application using YOLOv8 and Streamlit
-- **ESP32 Gate Controller** - Microcontroller-based remote control and prototyping project
-- **FPGA UART + FIFO** - Digital hardware design project (in development)
 
-## Technologies
-Python | ESP32 | Arduino IDE | OpenCV | Streamlit
+- **Colour recognition:** an Arduino-based foundation project using controlled illumination and an LDR, with calibration and interactive feedback.
+- **ESP32-C3 servo prototype:** a commissioned microcontroller project. Client details and configuration remain private.
 
-## Connect
-[LinkedIn](https://www.linkedin.com/in/lucy-oliver)
+I'm also working on the EEEBot laboratory project and participating in Formula Student electrical onboarding, including introductory KiCad work.
+
+## Learning next
+
+My planned first FPGA project is a UART controller with synchronous FIFO buffering. I'll start with digital logic and simulation, then build towards testing on a development board.
+
+My current project tools include Python, Arduino/ESP32 development and introductory KiCad. I use this profile to document what I've actually built and what I'm learning next.
+
+[LinkedIn](https://www.linkedin.com/in/lucy-oliver/)
